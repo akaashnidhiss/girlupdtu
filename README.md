@@ -1,4 +1,4 @@
-# girlupdtu
+# blogging-website
 Website's a work in progress :)
 
 Working on:
