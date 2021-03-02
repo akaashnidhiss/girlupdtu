@@ -1,0 +1,23 @@
+{
+    "name": "girlupdtu",
+    "version": "1.0.0",
+    "description": "",
+    "main": "app.js",
+    "scripts": {
+        "start": "node index",
+        "dev": "nodemon index"
+    },
+    "author": "akaash&anasuya",
+    "license": "ISC",
+    "dependencies": {
+        "connect-mongo": "^4.2.2",
+        "dotenv": "^8.2.0",
+        "express": "^4.17.1",
+        "express-handlebars": "^5.2.1",
+        "express-session": "^1.17.1",
+        "moment": "^2.29.1",
+        "mongoose": "^5.11.18",
+        "passport": "^0.4.1",
+        "passport-google-oauth20": "^2.0.0"
+    }
+}
